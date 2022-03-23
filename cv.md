@@ -13,33 +13,32 @@ Gmail.com: m.yark0v.2000@gmail.com
 # About me
 
 As they say,
-> У самурая нет цели, только путь
+> A samurai has no goal, only a path
 
-Я пришел в веб разработку, потому что мне нравится создавать что-то красивое и функциональное. Мой приоритет - постоянное обучение.
-
-***
-
-# Навыки
-
-HTML/CSS (SCSS препроцессов),  сборщик Gulp
-
-Верстка:  
-
-1. Адаптивная верстка
-2. Методология БЭМ
-
-Базовый функционал JavaScript
-
-1. Адапитвное бургер меню
-2. Карусель
-3. Выпадающее меню
-4. Параллакс эффект
-5. Плавный скролл к блоку от навигации
-6. Плавное появление контента при скролле
+I came to web development because I like to create something beautiful and functional. My priority is continuous learning.
 
 ***
 
-# Пример кода
+# Skills
+
+HTML/CSS (SCSS prepros), Gulp version toolkit
+
+Layout:  
+
+1. Adaptive layout
+2. BEM Methodology
+
+Basic JavaScript functionality
+
+1. Adaptivity menu burger
+2. Carusel
+3. Drop-down menu
+4. Parallax effect
+5. Smooth scrolling to the block from navigation
+
+***
+
+# Code example
 
 ```
 function smash(words) {
@@ -49,12 +48,12 @@ function smash(words) {
 
 ***
 
-# Опыт
+# Experience
 
-На данный момент работаю над сайтом для продажи аксессуаром и косметологическим лендингом.
+At the moment I am working on a website for the sale of accessories and a cosmetology landing page.
 
 ***
 
-# Английский
+# English
 
 Pre-intermediate
