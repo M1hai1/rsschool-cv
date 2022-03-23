@@ -21,7 +21,7 @@ I came to web development because I like to create something beautiful and funct
 
 # Skills
 
-HTML/CSS (SCSS prepros), Gulp version toolkit
+HTML/CSS (SCSS prepros), Gulp version toolkit.
 
 Layout:  
 
